@@ -33,9 +33,9 @@ Did you hear about the new restaurant on the moon? The food is great, but there'
 
 https://github.com/user-attachments/assets/727f9d08-ca3f-4a0d-81c5-7ef12e11ba3d
 
-## Models
+## Model
 
-Download the models from [this](https://drive.google.com/drive/folders/1ZV4tcDUlsQsW0Yfl1ocWb5kAMcX1ywyx?usp=sharing) link
+Download the model weights from [this](https://drive.google.com/drive/folders/1ZV4tcDUlsQsW0Yfl1ocWb5kAMcX1ywyx?usp=sharing) link
 
 ## Usage 
 
