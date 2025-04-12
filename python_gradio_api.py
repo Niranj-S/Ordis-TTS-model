@@ -38,4 +38,4 @@ result = client.predict(
     api_name="/get_tts_wav"
 )
 
-print(result)
+print(result) # you can use pydub/pygame etc to play the output wav file
