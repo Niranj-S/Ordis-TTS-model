@@ -22,7 +22,7 @@ inference_text = "Operator, I've run diagnostic regressions..."
 
 # Run voice inference
 result = client.predict(
-    ref_wav_path=file('ordis.ogg'),
+    ref_wav_path=file('ordis.ogg'), #can use .wav files 
     prompt_text=inference_text,
     prompt_language="English",
     text=inference_text,
