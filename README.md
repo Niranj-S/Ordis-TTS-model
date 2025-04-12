@@ -1,6 +1,6 @@
 # ORDIS using GPT-SoVITS
 
-This project replicates the voice of Warframe's ORDIS using GPT-SoVITS TTS model. The model was trained using just 22 audio clips of 4-5 seconds each and benefits greatly from SoVITS's few shot cloning capabilities. This model can not only capture the robotic, reverberating voice effect of ordis but also can replicate emotional sounds such as laughter. Suitable for enabling realistic voice TTS to LLMs for personal assistants, as the processing speed is faster than real time.
+This project replicates the voice of Warframe's ORDIS using GPT-SoVITS v2 TTS model. The model was trained using just 22 audio clips of 4-5 seconds each and benefits greatly from SoVITS's few shot cloning capabilities. This model can not only capture the robotic, reverberating voice effect of ordis but also can replicate emotional sounds such as laughter. Suitable for enabling realistic voice TTS to LLMs for personal assistants, as the processing speed is faster than real time.
 
 <div align="center"> 
 <img src="https://github.com/user-attachments/assets/154d0310-3991-4497-8a0b-3e0abd28f0a1">
