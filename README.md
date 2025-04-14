@@ -42,6 +42,7 @@ Download the model weights from [this](https://drive.google.com/drive/folders/1Z
 - Download and install [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS).
 - copy the GPT weights file to GPT_weights_v2 folder.
 - copy the SoVITS weights file to SoVITS_weights_v2 folder.
+- start the webui by running python GPT_SoVITS/inference_webui.py from the repo path.
 - while running inference webui, select the warframe_ordis-e15.ckpt in the gpt weights drop down and warframe_ordis_e8_s408.pth in sovits weights drop down.
 - upload the given reference audio.
 - enter inference text and generate.
